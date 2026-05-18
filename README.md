@@ -2,6 +2,8 @@
 
 A desktop Pomodoro productivity timer built with Python and Tkinter.
 
+![Pomodoro Timer](image.png)
+
 ## What it does
 
 Implements the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) — alternating focused work sessions with short breaks, and a long break after every 4 work sessions.
